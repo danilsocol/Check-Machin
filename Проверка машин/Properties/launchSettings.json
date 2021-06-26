@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Проверка машин": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Приложения\\Проекты\\Проверка машин"
+    }
+  }
+}
